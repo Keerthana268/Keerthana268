@@ -1,9 +1,9 @@
-👋 Hey there, I'm Keerthana :)
+##👋 Hey there, I'm Keerthana :)
 
-- 👩💻 About Me
+### 👩💻 About Me
 📊 On a mission to transform raw data into actionable insights with a passion that's out of this world! 🚀
 
-- 💼 Actively seeking opportunities as a
+💼 Actively seeking opportunities as a
 
 - 📈 Data Scientist
 - 📊 Data Analyst
