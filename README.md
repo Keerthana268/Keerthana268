@@ -1,7 +1,7 @@
 👋 Hey there, I'm Keerthana :)
 
 - 👩💻 About Me
-- 📊 On a mission to transform raw data into actionable insights with a passion that's out of this world! 🚀
+📊 On a mission to transform raw data into actionable insights with a passion that's out of this world! 🚀
 
 - 💼 Actively seeking opportunities as a
 
@@ -10,7 +10,7 @@
 - 🤖 Machine Learning Engineer
 - 📊 Business Analyst
 
-- 📧 Reach me at: keerthanajothi268@gmail.com
+📧 Reach me at: keerthanajothi268@gmail.com
 
 - 🛠️ My Toolkit:
 - 🐍 Python And R
