@@ -1,4 +1,4 @@
-##👋 Hey there, I'm Keerthana :)
+## 👋 Hey there, I'm Keerthana :)
 
 ### 👩💻 About Me
 📊 On a mission to transform raw data into actionable insights with a passion that's out of this world! 🚀
