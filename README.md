@@ -12,7 +12,7 @@
 
 📧 Reach me at: keerthanajothi268@gmail.com
 
-- 🛠️ My Toolkit:
+🛠️ My Toolkit:
 - 🐍 Python And R
 - 📊 Data Visualization : Excel, PowerBI, Matplotlib, ggplot
 - 🧮 Statistics
@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->👋 Hey there, I'm Keerthana :)
+-->
 
 
