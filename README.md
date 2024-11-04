@@ -1,3 +1,4 @@
+Hi I'm Keerthana....
 <h3 align="center">A passionate Data Scientist dedicated to transforming data into actionable insights and solving complex problems to drive business success.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthana268&label=Profile%20views&color=0e75b6&style=flat" alt="keerthana268" /> </p>
